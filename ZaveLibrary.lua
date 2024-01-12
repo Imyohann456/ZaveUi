@@ -303,7 +303,7 @@ function Zave.CreateLib(ZavName, themeList)
     Main.Position = UDim2.new(0.336503863, 0, 0.275485456, 0)
     Main.Size = UDim2.new(0, 525, 0, 318)
 
-    MainCorner.CornerRadius = UDim.new(0, 6)
+    MainCorner.CornerRadius = UDim.new(0, 4)
     MainCorner.Name = "MainCorner"
     MainCorner.Parent = Main
 
@@ -367,7 +367,7 @@ function Zave.CreateLib(ZavName, themeList)
     MainSide.Position = UDim2.new(-7.4505806e-09, 0, 0.0911949649, 0)
     MainSide.Size = UDim2.new(0, 149, 0, 289)
 
-    sideCorner.CornerRadius = UDim.new(0, 6)
+    sideCorner.CornerRadius = UDim.new(0, 4) 
     sideCorner.Name = "sideCorner"
     sideCorner.Parent = MainSide
 
